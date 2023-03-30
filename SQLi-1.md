@@ -1,8 +1,4 @@
-# Air Cargo Management System v1.0 has SQL injection
-
 BUG_Author: lizhe
-
-Website source address:https://www.sourcecodester.com/php/15188/air-cargo-management-system-php-oop-free-source-code.html
 
 Vulnerability File: /acms/admin/user/manage_user.php
 
